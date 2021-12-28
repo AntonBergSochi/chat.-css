@@ -1,0 +1,163 @@
+body{
+				margin:0;
+				padding:0;
+				font-family:fantasy;
+				font-size:1rem;
+}
+
+#header{
+    background:#55eaff;
+				width:100%;
+				height:250px;
+				border:2px solid black;
+}
+
+.chat{
+    background:#6aff78;
+				width:100℅;
+				height:350px;
+				border:2px solid black;
+				overflow:scroll;
+}
+
+
+
+#int{
+    background:#55eaff;
+				overflow:scroll;
+				height:30px;
+				border:2px solid red;
+				
+		
+}
+#vvod{
+    background:orange;
+				width:100%;
+				height:500px;
+				margin:0 auto;
+				color:blue;
+				font-size:20px;
+}
+#mytext{
+    background:#40b6ff;
+				color:#0003ff;		
+}
+
+select{
+				font-size:16px;
+				height:30px;
+}
+	
+#int2{
+				background:#55eaff;
+				width:95%;
+				height:30px;
+				border:2px solid red;
+				overflow:scroll;
+}			
+
+#click{
+   background:yellow;
+				width:120px;
+				height:120px;
+				border:2px solid red;
+				border-radius:60px;
+				text-align:center;
+				font-size:20px;
+}
+				
+#but{
+				margin:0 auto;
+				text-align:center;
+}
+
+#block{
+      grid-template-columns: 3fr 1fr;
+							display:grid;
+     background:orange;
+			   border:3px solid blue;
+			   	margin:0 auto;
+			   	
+				  text-align:center;
+				  height:auto;
+				  
+			-moz-user-select: none; 
+			-webkit-user-select: none; 
+			-ms-user-select: none; 
+			-o-user-select: none; 
+			 user-select: none; 
+}
+
+
+
+.bob{
+   background:orange;
+   border:5px solid green;
+   width:250px;
+				height:150px;
+				position:relative;
+				top:1px;		
+}
+
+#clos{
+				position:relative;
+				
+}
+
+#sos{ 
+   grid-column-start:1;
+		      grid-row-start:1;	
+		       border:2px solid red;
+		       height:100%;
+}
+
+#setka{
+       grid-column-start:2;
+		      grid-row-start:1;	
+				    text-align:center;		
+				    border:2px solid black;
+				    height:100%;
+}
+				
+				
+ 
+
+
+#fotokorona{
+				display:block;
+				background:grey;
+				width:40px; 
+				height:40px;
+				border:3px solid black;
+				margin:0 auto;
+}
+
+#fotoprofile{
+				display:block;
+				background:grey;
+				width:80px;
+				height:80px;
+				border:3px solid black;
+			 margin-right:1px;
+}
+
+
+
+#kok{
+			 background:green;
+				width:100%;
+				height:50px;
+				border:2px solid black;	
+				margin-top:1px;
+				text-align:center;
+				color:white;
+				margin-bottom:15px;
+}		
+				
+.footer{
+    background:#ff7e15;
+				width:100%;
+				height:100px;
+				border:5px solid black;
+}
+
